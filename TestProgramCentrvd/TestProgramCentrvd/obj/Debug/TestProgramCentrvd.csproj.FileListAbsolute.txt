@@ -1,0 +1,5 @@
+C:\Work\TestProgramCentrvd\TestProgramCentrvd\bin\Debug\TestProgramCentrvd.exe.config
+C:\Work\TestProgramCentrvd\TestProgramCentrvd\bin\Debug\TestProgramCentrvd.exe
+C:\Work\TestProgramCentrvd\TestProgramCentrvd\bin\Debug\TestProgramCentrvd.pdb
+C:\Work\TestProgramCentrvd\TestProgramCentrvd\obj\Debug\TestProgramCentrvd.exe
+C:\Work\TestProgramCentrvd\TestProgramCentrvd\obj\Debug\TestProgramCentrvd.pdb
